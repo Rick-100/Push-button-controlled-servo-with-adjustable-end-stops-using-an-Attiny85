@@ -70,7 +70,7 @@ In his video pileofstuff showed the push buttons and IR sensors wired in paralle
 This has been a fun project even though I'm not into model trains. I think it might be useful for other non train projects. The code is a starting point for another project I have in mind. I've been using my 3018 CNC to make boards with the isolation routing method, so I designed some circuit boards for the project. I'll include the gerber files in case anyone wants them. There are two boards. The one with the Attiny85 and the one that has the push buttons and led. The attiny board has headers for connecting the IR sensors. The sensors have a non standard pinout but the board uses the hobby servo standard of 1:GND 2:V+ 3:SIG so you have to swap the wire in the hook up wires you use.
 
 Link to open main board in EasyEda editor:
-https://easyeda.com/editor#id=|053991f04dec438685bc99f91181d4e4|dd444679e9d94d9bacffa765860c2ff6
+[https://easyeda.com/editor#id=|053991f04dec438685bc99f91181d4e4|dd444679e9d94d9bacffa765860c2ff6](https://easyeda.com/editor#project_id=e473c2db13764edca96152e6c75b7e55)
 
 Link to open user input board in EasyEda editor:
 
