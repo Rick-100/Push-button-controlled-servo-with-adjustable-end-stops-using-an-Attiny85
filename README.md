@@ -76,6 +76,7 @@ Link to open user input board in EasyEda editor:
 
 https://easyeda.com/editor#id=|87594c4b0b304a26913ac3bafe0e990d|861154c907374d65bb66870aeddd5e62
 
+I added the servo_limits_speed.ino to give the option of controlling the speed the servo moves.
 
 Thanks
 
